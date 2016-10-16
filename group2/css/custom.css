@@ -1,0 +1,8 @@
+.cus_tt{text-align: center;font-size: 29px;font-weight: bold;color: white;text-shadow: 1px 1px 1px black;}
+        .c_sp{height: 100px;width: 364px;border-radius: 3px;background: white;margin-bottom: 5px;text-align: left;}
+        .c_sp:hover{box-shadow: 1px 1px 3px #CFCFCF;}
+        .c_table{width:746px;}
+        .c_img{overflow:hidden;height:100%;width:132px;float:left;}
+        .c_img img{max-height:100px;width:125px;}
+        .c_info{margin-left: 132px;padding-top: 6px;}
+        .c_i_name{font-size: 16px;font-weight: bold;}

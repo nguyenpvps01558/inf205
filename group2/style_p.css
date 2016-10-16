@@ -1,0 +1,57 @@
+*{padding:0px;margin:0px;color:#424242;font-size:12px;font-family: arial;}
+a{text-decoration: none;}
+ul{list-style:none;}
+a:hover{cursor:pointer;color:blue;}
+body{background-color:#f4f4f4;}
+@font-face{font-family:"g2";src:url("bg/g2.ttf");}
+#head{width:100%;height:103px;background:#eee;border-bottom:#c5c5c5 solid 2px;}
+#head1{width:1000px;margin:0px auto;position:relative;}
+#logo{font-family: g2;font-size: 64px;width: 246px;text-align: center;line-height: 68px;float: left;border-left: #C5C5C5 solid 1px;border-right: #C5C5C5 solid 1px;cursor:pointer;}
+#logo:hover{color:blue;text-shadow: 0px 3px 0px white;}
+#slogan{font-size: 49px;font-family: g2;line-height: 79px;width: 495px;padding-left:10px;float:left;}
+#login{height: 83px;width: 245px;background: white;margin-left: 754px;border-bottom-left-radius: 8px;border-bottom-right-radius: 8px;box-shadow: 0px 2px 3px #9C9C9C;}
+.log_tt{height: 26px;background:#7078F7;text-align: center;line-height: 26px;font-weight: bold;border-radius: 0px;color: white;font-family: arial;font-size:14px;border-right: white solid 2px;border-left: white solid 2px;}
+.user{margin:5px 15px;}
+.user div{margin-top: 3px;}
+.user div label{cursor:pointer;font-size:13px;font-weight:bold;}
+.user div input{border: #D8D8D8 solid 1px;width: 166px;height: 18px;padding:0px 3px;}
+#p{width:165px;}
+#body{width:1000px;margin:-2px auto;min-height:467px;}
+#custom{width:100%;height:100%;background:rgba(0, 0, 0, 0.37);position: fixed;z-index:99999;display:none;}
+#custom1{width:100%;position: fixed;z-index:999999;}
+#cust{position: relative;width: 450px;background: #EEE;margin: -277px auto;border-radius: 8px;border: white solid 5px;box-shadow: 0px 0px 9px black;}
+.cust_tt{background: white;font-size: 15px;padding: 3px;font-weight: bold;text-align: center;}
+.cust_tt:hover{cursor:pointer;}
+.cust_ct p{margin:5px 0px;padding-left: 70px;}
+.cust_ct p label{width:100px;display:block;float:left;line-height: 21px;}
+.cust_ct p input{width:200px;border: #CCC solid 1px;padding: 2px}
+.cust_ct p select{border: #CCC solid 1px;padding: 2px}
+.xacnhan{height: 26px;border: #CCC solid 1px;background: #E0E0E0;cursor: pointer;font-weight: bold;margin-left:49px;margin-top:4px;}
+.xacnhan:hover{background:#fff;}
+.c_close:hover{cursor:pointer;}
+.c_ct1:hover .c_close{background:url(bg/close.gif) no-repeat;height:12px;width:12px;position:absolute;top:-1px;right:0px;background-color: white;border-radius: 12px;}
+.c_tien{padding-left: 35px;height: 21px;background: #EEE;line-height: 21px;}
+.c_ct_name,.c_ct_sl{font-size:14px;line-height:25px;padding-left:5px;}
+.c_ct_name{float: left;height: 23px;width: 121px;overflow: hidden;border-bottom:#eee solid 1px;}
+.c_ct1{height:30px;margin:3px 0px;position:relative;}
+.c_tt{width:30px;height:100%;background:#e6e6e6;float:left;cursor:pointer;}
+
+.c_ct{margin-left: 30px;height: 179px;overflow: auto;}
+.c_tt span{-webkit-transform: rotate(90deg);position: absolute;font-size: 18px;top: 42%;left: -31px;}
+#cart{height:200px;width:194px;background:#fff;position:fixed;right:-164px;z-index:20000;box-shadow: -2px 0px 3px #6D6D6D;top:200px;display: none;}
+#left{width:246px;background:#efefef;border-left:#c5c5c5 solid 1px;border-right:#c5c5c5 solid 1px;float: left;}
+.l_tt{height:30px;background:#e5e5e5;border-bottom:#fff solid 1px;line-height:30px;text-align: center;font-size: 16px;font-weight: bold;}
+.l_ct ul li a{text-align: center;display: block;font-size: 15px;margin: 3px;padding: 4px;border:#efefef solid 1px;}
+.hover_loai{box-shadow: inset 0px 0px 3px #646464;border-radius: 3px;border: white solid 1px!important;}
+#right{margin-left: 260px;padding-top: 10px;}
+.sp1{height:198px;width:234px;background:#fff;float:left;border:#ddd solid 3px;margin-left:5px;margin-top:5px;position:relative;}
+.sp1_img{margin-top: 24px;height: 150px;overflow: hidden;text-align:center;}
+.sp1_img img{max-width:220px;max-height:135px;}
+.sp_hover{cursor:pointer;z-index: 1000;position: absolute;box-shadow: 0px 0px 6px #525252;background: white;width: 244px;left: -3px;top: -3px;height: 204px;}
+.sp1_nd{background:#f6f6f6;border-top: #DFDFDF solid 1px;padding:3px 0px;display:none;}
+.nd_tt{font-size:16px;text-align:center;}
+.nd_ct{text-align:center;}
+.s_name{padding: 1px;border: #AFAFAF solid 1px;}
+.s_gui{padding:1px 10px;border: #AFAFAF solid 1px;cursor:pointer;background:#eee;}
+.s_gui:hover{background:#fff;}
+#end{height: 100px;font-weight: bold;text-align: center;background: #DADADA;width: 100%;line-height: 100px;margin-top: 8px;border-top: #DFDFDF solid 1px;box-shadow: 0px -1px 4px #A7A7A7;}

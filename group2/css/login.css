@@ -1,0 +1,11 @@
+#head{width:100%;height:103px;background:#eee;border-bottom:#c5c5c5 solid 2px;}
+#head1{width:1000px;margin:0px auto;position:relative;}
+#logo{font-family: g2;font-size: 64px;width: 246px;text-align: center;line-height: 68px;float: left;border-left: #C5C5C5 solid 1px;border-right: #C5C5C5 solid 1px;cursor:pointer;}
+#logo:hover{color:blue;text-shadow: 0px 3px 0px white;}
+#slogan{font-size: 49px;font-family: g2;line-height: 79px;width: 495px;padding-left:10px;float:left;}
+#login{height: 83px;width: 245px;background: white;margin-left: 754px;border-bottom-left-radius: 8px;border-bottom-right-radius: 8px;box-shadow: 0px 2px 3px #9C9C9C;}
+.log_tt{height: 26px;background:#7078F7;text-align: center;line-height: 26px;font-weight: bold;border-radius: 0px;color: white;font-family: arial;font-size:14px;border-right: white solid 2px;border-left: white solid 2px;}
+.user{margin:5px 15px;padding-bottom:5px!important;}
+.user div{margin-top: 3px;}
+.user div label{cursor:pointer;font-size:13px;font-weight:bold;}
+.user div input{border: #D8D8D8 solid 1px;width: 166px;height: 18px;padding:0px 3px;}

@@ -1,0 +1,137 @@
+<!DOCTYPE HTML>
+<head>
+	<meta http-equiv="content-type" content="text/html" />
+	<meta name="author" content="group2" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Đồ án cơ sở nhóm 2</title>
+    <script type="text/javascript" src="jquery/jquery.1.8.1.js"></script>
+    <link rel="stylesheet" type="text/css" href="engine1/style.css" />
+	<script type="text/javascript" src="engine1/jquery.js"></script>    
+</head>
+<style>
+    *{padding:0px;margin:0px;color:#424242;}
+    ul{list-style:none;}
+    a{text-decoration:none;}
+    a:hover{cursor:pointer;color:blue;}
+    body{background:url('bg/bg.jpg') top center no-repeat;background-color:#d4d4d4;}
+    @font-face{font-family:"g2";src:url("bg/g2.ttf");}
+    #header{font-family: g2;font-size: 32px;width: 100%;background: rgba(255, 255, 255, 0.47);height: 40px;position: relative;text-align: center;line-height: 18px;border-bottom: white solid 1px;}
+    #body{width:1000px;margin:0px auto;height:300px;}
+    #slide{position:relative;width:812px;margin:0px auto;}
+    #boximg{width:800px;height:254px;background:#fff;border:#f5f5f5 solid 6px;margin:45px auto 0px;overflow:hidden;}
+    #bg_box{position:absolute;width: 965px;height: 311px;background: url('bg/bgSlide.png');top:46px;left: -71px;z-index:-1;}
+    #c_slide{height: 28px;padding-top: 2px;;width: 200px;border: whiteSmoke solid 1px;border-top:none;margin: 0px auto;box-shadow: 0px 2px 3px #929292;border-bottom-left-radius: 4px;border-bottom-right-radius: 4px;
+    background-image: -webkit-linear-gradient(top,#e6e6e6,#CCC);}
+    .slide_s{height:20px;width:20px;background:#d4d4d4;border-radius:20px;border: white solid 1px;box-shadow: inset 0px 0px 4px #575656;cursor: pointer;}
+    #c_slide table{margin:0px auto;}
+    #c_slide table tr td{width:24px;}
+    .slide_s_select{height: 16px;width: 16px;background: white;border-radius: 16px;background-image: -webkit-linear-gradient(top,white,#C7C7C7);border: white solid 1px;margin: auto;margin-top: 1px;}
+    .arr_l{left: -31px;background: url(bg/arr_l.png) 0px 2px no-repeat;}
+    .arr_r{right: -31px;box-shadow: 2px 0px 3px #AFAFAF!important;background: url(bg/arr_r.png) 7px 2px no-repeat;}
+    .arr_l,.arr_r{width: 36px;height: 100px;background-color: #f5f5f5;position: absolute;top: 82px;border-radius: 5px;box-shadow: -2px 0px 3px #AFAFAF;border: white solid 1px;}
+    .arr_l:hover,.arr_r:hover{background-color: white;cursor: pointer;}
+    #boximg img{float:left;}
+</style>
+  <script>
+        $(document).ready(function(){
+            //select butotn control
+           $('.slide_s').click(function(){
+                $('.slide_s').text('');
+                var c='<div class="slide_s_select"></div>';
+                $(this).append(c);
+           });
+           //selet right
+           var arr=['s1','s2']
+           $('.arr_r').click(function(){
+               //$('#boximg img').animate({"marginLeft": "800px"},2000);
+               $('#boximg img').fadeOut('slow');
+           });
+           //hover author
+           $('#menu table tr td:eq(2) #bt_mn').hover(function(){
+              $(this).find('.card div div').show().animate({'zoom':'1'},'slow');
+           },function(){
+              $(this).find('.card div div').animate({'zoom':'0'},'slow').queue(function() {$(this).hide().dequeue();}); 
+           });
+           //hover .card_
+           $('.card_ div').click(function(){
+                $('.card_ div').css('zoom','1');
+                $(this).animate({'zoom':'1.2'},'slow');
+                
+           });
+        });
+  </script>
+<body>
+    <div id="header">group 2</div>
+    <div id="body">
+        <div id="slide">
+       	    <div id="wowslider-container1">
+           	    <div class="ws_images">
+                   <ul>
+                        <li><img src="data1/images/1.jpg" alt="Blue hills" title="Acer" id="wows1_0"/></li>
+                        <li><img src="data1/images/2.jpg" alt="Sunset" title="Toshiba" id="wows1_1"/></li>
+                        <li><img src="data1/images/3.jpg" alt="Water lilies" title="Apple" id="wows1_2"/></li>
+                        <li><img src="data1/images/4.jpg" alt="Winter" title="Apple" id="wows1_3"/></li>
+                        <li><img src="data1/images/5.jpg" alt="Winter" title="Samsung" id="wows1_3"/></li>
+                        <li><img src="data1/images/6.jpg" alt="Winter" title="Vaio" id="wows1_3"/></li>
+                        <li><img src="data1/images/7.jpg" alt="Thinkpad" title="Thinkpad" id="wows1_3"/></li>
+                    </ul>
+                </div>
+                <div class="ws_bullets">
+                    <div>
+                        <a href="#" title="Acer"><img src="data1/tooltips/1.jpg" alt="Blue hills"/>1</a>
+                        <a href="#" title="Toshiba"><img src="data1/tooltips/2.jpg" alt="Sunset"/>2</a>
+                        <a href="#" title="Apple"><img src="data1/tooltips/3.jpg" alt="Water lilies"/>3</a>
+                        <a href="#" title="Apple"><img src="data1/tooltips/4.jpg" alt="Winter"/>4</a>
+                        <a href="#" title="Samsung"><img src="data1/tooltips/5.jpg" alt="Winter"/>4</a>
+                        <a href="#" title="Vaio"><img src="data1/tooltips/6.jpg" alt="Winter"/>4</a>
+                        <a href="#" title="Thinkpad"><img src="data1/tooltips/7.jpg" alt="Winter"/>4</a>
+                    </div>
+                </div>
+            <div id="bg_box"></div>            
+        </div>
+        </div>
+        <style>
+            #menu{width:800px;margin: 113px auto 0px;}
+            #bt_mn{margin:0px auto;position:relative;text-align: center;height:143px;width:143px;background:#fff;border: #D3D2FF solid 6px;box-shadow: 0px 0px 5px #7A7A7A;border-radius:143px;}
+            #bt_mn a{font-family: g2;display:block;}
+            .eng{font-size:37px;padding-top:20px;}
+            .vn{font-size:23px;}
+            .line_{height: 1px;width: 71px;background: #AFACAC;position: absolute;top: 71px;right: 0px;}
+            #menu table tr td{width:200px;}
+            #menu table{margin:0px auto;}
+            #bt_mn:hover{
+                -webkit-transition-duration: 1000ms;
+                -webkit-transform: rotate(360deg);                
+                }
+            .card div div{font-family: g2;font-size: 38px;background: white;height: 120px;text-align: center;width: 120px;border: #ACACAC solid 6px;position: absolute;border-radius: 120px;line-height: 50px;box-shadow: -4px 0px 0px #838383;zoom:0.1;display:none;}            
+            .card{position:absolute;}
+            .card_{position:relative;}
+            .card1{top: -201px;left: -78px;-webkit-transform: rotate(-36deg);}            
+            .card3{top: -226px;left: 46px;-webkit-transform: rotate(7deg);}
+            .card4{top: -138px;left: 135px;-webkit-transform: rotate(52deg);}                        
+        </style>      
+        <div id="menu">
+            <table>
+                <tr>
+                    <td><div id="bt_mn"><a class="eng">Home</a><a class="vn">Trang chủ</a><div class="line_"></div></div></td>
+                    <td><div id="bt_mn"><a href="product.php" class="eng">Product</a><a href="product.php" class="vn">Sản phẩm</a><div class="line_"></div></div></td>
+                    <td><div id="bt_mn">
+                        <a class="eng">Author</a>
+                        <a class="vn">Tác giả</a>
+                        <div class="line_"></div>
+                        <div class="card">
+                          <div class="card_">  
+                            <div class="card1">Văn Biên</div>
+                            <div class="card3">Văn Thức</div>
+                            <div class="card4">Văn Tiến</div>
+                          </div>
+                        </div>
+                    </div></td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</body>
+<script type="text/javascript" src="engine1/wowslider.js"></script>
+<script type="text/javascript" src="engine1/script.js"></script>
+</html>

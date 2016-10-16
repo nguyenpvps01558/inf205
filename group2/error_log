@@ -1,0 +1,632 @@
+[22-Nov-2012 22:30:25] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:30:25] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:30:25] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 5
+[22-Nov-2012 22:30:25] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 5
+[22-Nov-2012 22:30:25] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 6
+[22-Nov-2012 22:30:25] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 6
+[22-Nov-2012 22:30:25] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 6
+[22-Nov-2012 22:30:25] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:30:25] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:30:25] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:30:25] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:30:25] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:30:25] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:30:25] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:30:25] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:30:25] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:30:25] PHP Warning:  Unknown: Your script possibly relies on a session side-effect which existed until PHP 4.2.3. Please be advised that the session extension does not consider global variables as a source of data, unless register_globals is enabled. You can disable this functionality and this warning by setting session.bug_compat_42 or session.bug_compat_warn to off, respectively. in Unknown on line 0
+[22-Nov-2012 22:30:27] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:30:27] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:30:27] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:30:27] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:30:27] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:30:27] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:30:27] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:30:27] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:30:27] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:30:27] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:30:27] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:30:27] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:30:27] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:30:27] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:30:28] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:30:28] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:30:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:30:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:30:28] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:30:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:30:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:30:28] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:30:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:30:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:30:28] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:30:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:30:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:30:28] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:34:26] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:34:26] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:34:26] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:34:26] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:34:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:34:26] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:34:26] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:34:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:34:26] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:34:26] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:34:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:34:26] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:34:26] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:34:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:34:32] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:34:32] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:34:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:34:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:34:32] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:34:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:34:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:34:32] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:34:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:34:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:34:32] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:34:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:34:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:34:32] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:37:30] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'kenhdh' (1) in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:37:30] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:37:30] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:37:30] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:37:30] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:37:30] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:37:30] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:37:30] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:37:30] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:37:30] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:37:30] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:37:30] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:37:30] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:37:30] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:37:33] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'kenhdh' (1) in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:37:33] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:37:33] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:37:33] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:37:33] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:37:33] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:37:33] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:37:33] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:37:33] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:37:33] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:37:33] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:37:33] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:37:33] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:37:33] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:37:36] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'kenhdh' (1) in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:37:36] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:37:36] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:37:36] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:37:36] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:37:36] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:37:36] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:37:36] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:37:36] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:37:36] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:37:36] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:37:36] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:37:36] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:37:36] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:37:37] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'kenhdh' (1) in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:37:37] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:37:37] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:37:37] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:37:37] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:37:37] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:37:37] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:37:37] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:37:37] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:37:37] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:37:37] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:37:37] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:37:37] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:37:37] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:37:43] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'kenhdh' (1) in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:37:43] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:37:43] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:37:43] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:37:43] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:37:43] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:37:43] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:37:43] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:37:43] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:37:43] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:37:43] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:37:43] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:37:43] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:37:43] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:38:33] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'kenhdh' (1) in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:38:33] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:38:33] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:38:33] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:38:33] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:38:33] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:38:33] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:38:33] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:38:33] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:38:33] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:38:33] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:38:33] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:38:33] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:38:33] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:38:38] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'kenhdh' (1) in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:38:38] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:38:38] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:38:38] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:38:38] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:38:38] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:38:38] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:38:38] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:38:38] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:38:38] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:38:38] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:38:38] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:38:38] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:38:38] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:39:49] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'kenhdh' (1) in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:39:49] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:39:49] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/admin.php on line 6
+[22-Nov-2012 22:39:49] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/admin.php on line 6
+[22-Nov-2012 22:39:49] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/admin.php on line 7
+[22-Nov-2012 22:39:49] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/admin.php on line 7
+[22-Nov-2012 22:39:49] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/admin.php on line 8
+[22-Nov-2012 22:39:49] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/admin.php on line 8
+[22-Nov-2012 22:39:49] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/admin.php on line 8
+[22-Nov-2012 22:39:49] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/default.php on line 21
+[22-Nov-2012 22:39:49] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/default.php on line 21
+[22-Nov-2012 22:39:49] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/default.php on line 22
+[22-Nov-2012 22:39:49] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/default.php on line 47
+[22-Nov-2012 22:39:49] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/default.php on line 47
+[22-Nov-2012 22:39:49] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/default.php on line 48
+[22-Nov-2012 22:39:49] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'kenhdh' (1) in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:39:49] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:39:49] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/default.php on line 21
+[22-Nov-2012 22:39:49] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/default.php on line 21
+[22-Nov-2012 22:39:49] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/default.php on line 22
+[22-Nov-2012 22:39:49] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/default.php on line 47
+[22-Nov-2012 22:39:49] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/default.php on line 47
+[22-Nov-2012 22:39:49] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/default.php on line 48
+[22-Nov-2012 22:42:26] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'group2'@'localhost' (using password: YES) in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:42:26] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:42:26] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:42:26] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:42:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:42:26] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:42:26] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:42:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:42:26] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:42:26] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:42:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:42:26] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:42:26] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:42:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:42:28] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'group2'@'localhost' (using password: YES) in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:42:28] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:42:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:42:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:42:28] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:42:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:42:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:42:28] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:42:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:42:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:42:28] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:42:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:42:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:42:28] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:42:32] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'group2'@'localhost' (using password: YES) in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:42:32] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:42:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:42:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:42:32] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:42:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:42:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:42:32] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:42:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:42:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:42:32] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:42:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:42:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:42:32] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:43:27] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:43:27] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:43:27] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:43:27] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:43:32] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:43:32] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:43:32] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:43:32] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:43:36] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:43:36] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:43:36] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:43:36] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:43:38] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:43:38] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:43:38] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:43:38] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:43:48] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'kenhdh' (1) in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:43:48] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:43:48] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:43:48] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:43:48] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:43:48] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:43:48] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:43:48] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:43:48] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:43:48] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:43:48] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:43:48] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:43:48] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:43:48] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:43:50] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'kenhdh' (1) in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:43:50] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:43:50] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:43:50] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:43:50] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:43:50] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:43:50] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:43:50] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:43:50] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:43:50] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:43:50] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:43:50] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:43:50] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:43:50] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:43:51] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'kenhdh' (1) in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:43:51] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:43:51] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:43:51] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:43:51] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:43:51] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:43:51] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:43:51] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:43:51] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:43:51] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:43:51] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:43:51] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:43:51] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:43:51] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:43:53] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'kenhdh' (1) in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:43:53] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:43:53] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:43:53] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:43:53] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:43:53] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:43:53] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:43:53] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:43:53] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:43:53] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:43:53] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:43:53] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:43:53] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:43:53] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:44:19] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'kenhdh_group2' (1) in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:44:19] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:44:19] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:44:19] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:44:19] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:44:19] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:44:19] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:44:19] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:44:19] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:44:19] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:44:19] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:44:19] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:44:19] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:44:19] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:44:25] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'kenhdh_group2' (1) in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:44:25] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 22:44:25] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:44:25] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:44:25] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:44:25] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:44:25] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:44:25] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:44:25] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:44:25] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 22:44:25] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:44:25] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:44:25] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 22:44:25] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:44:28] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:44:28] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:44:28] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:44:28] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:44:33] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:44:33] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:44:33] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:44:33] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:44:40] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:44:40] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:44:40] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:44:40] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:44:42] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:44:42] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:44:42] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:44:42] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:44:44] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:44:44] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:44:44] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:44:44] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:44:46] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:44:46] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:44:46] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:44:46] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:44:46] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:44:46] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:44:46] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:44:46] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:47:18] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:47:18] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:47:18] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:47:18] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:47:24] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:47:24] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:47:24] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:47:24] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:49:31] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:49:31] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:49:31] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:49:31] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:49:37] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:49:37] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:49:37] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:49:37] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:50:24] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:50:24] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:50:24] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:50:24] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:51:39] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:51:39] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:51:39] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:51:39] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:51:42] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:51:42] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:51:42] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:51:42] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:51:45] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:51:45] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:51:45] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:51:45] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:51:48] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:51:48] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:51:48] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:51:48] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:52:20] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 6
+[22-Nov-2012 22:52:20] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:52:20] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:52:20] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:52:20] PHP Warning:  Unknown: Your script possibly relies on a session side-effect which existed until PHP 4.2.3. Please be advised that the session extension does not consider global variables as a source of data, unless register_globals is enabled. You can disable this functionality and this warning by setting session.bug_compat_42 or session.bug_compat_warn to off, respectively. in Unknown on line 0
+[22-Nov-2012 22:52:22] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:52:22] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:52:22] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:52:22] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:52:25] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:52:25] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:52:25] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:52:25] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:54:43] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:54:43] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:54:43] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:54:43] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:57:12] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:57:12] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:57:12] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:57:12] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:57:18] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:57:18] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:57:18] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:57:18] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:57:39] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:57:39] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:57:39] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:57:39] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:57:40] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:57:40] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:57:40] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:57:40] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:59:44] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:59:44] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:59:44] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:59:44] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 22:59:50] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 22:59:50] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 22:59:50] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 22:59:50] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 23:00:35] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'kenhdh' (1) in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 23:00:35] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 23:00:35] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 23:00:35] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 23:00:35] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 23:00:35] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 23:00:35] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 23:00:35] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 23:00:35] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 23:00:35] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 23:00:35] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 23:00:35] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 23:00:35] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 23:00:35] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 23:00:41] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'kenhdh' (1) in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 23:00:41] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 23:00:41] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 23:00:41] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 23:00:41] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 23:00:41] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 23:00:41] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 23:00:41] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 23:00:41] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 23:00:41] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 23:00:41] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 23:00:41] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 23:00:41] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 23:00:41] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 23:00:59] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'kenhdh_group'@'slw01.hosting.viettelidc.com.vn' (using password: YES) in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 23:00:59] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 23:00:59] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 23:00:59] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 23:00:59] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 23:00:59] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 23:00:59] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 23:00:59] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 23:00:59] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 23:00:59] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 23:00:59] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 23:00:59] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 23:00:59] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 23:00:59] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 23:01:02] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'kenhdh_group'@'slw01.hosting.viettelidc.com.vn' (using password: YES) in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 23:01:02] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 23:01:02] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 23:01:02] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 23:01:02] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 23:01:02] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 23:01:02] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 23:01:02] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 23:01:02] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 23:01:02] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 23:01:02] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 23:01:02] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 23:01:02] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 23:01:02] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 23:01:12] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'kenhdh_group' (1) in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 23:01:12] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 23:01:12] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 23:01:12] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 23:01:12] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 23:01:12] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 23:01:12] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 23:01:12] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 23:01:12] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 23:01:12] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 23:01:12] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 23:01:12] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 23:01:12] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 23:01:12] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 23:01:18] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'kenhdh_group' (1) in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 23:01:18] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/kenhdh/public_html/group2/sql.php on line 3
+[22-Nov-2012 23:01:18] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 23:01:18] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 23:01:18] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 23:01:18] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 23:01:18] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 23:01:18] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 23:01:18] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 23:01:18] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 179
+[22-Nov-2012 23:01:18] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 23:01:18] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 23:01:18] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 208
+[22-Nov-2012 23:01:18] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 23:01:35] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 23:01:35] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 23:01:35] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 23:01:35] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 23:01:39] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 23:01:39] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 23:01:39] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 23:01:39] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 23:02:05] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 23:02:05] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 23:02:05] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 23:02:05] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 23:02:10] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 23:02:10] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 23:02:10] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 23:02:10] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 23:02:12] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 23:02:12] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 23:02:12] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 23:02:12] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 23:02:16] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 23:02:16] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 23:02:16] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 23:02:16] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[22-Nov-2012 23:03:50] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[22-Nov-2012 23:03:50] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[22-Nov-2012 23:03:50] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[22-Nov-2012 23:03:50] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[23-Nov-2012 07:34:42] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 6
+[23-Nov-2012 07:34:42] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[23-Nov-2012 07:34:42] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[23-Nov-2012 07:34:42] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[23-Nov-2012 07:34:42] PHP Warning:  Unknown: Your script possibly relies on a session side-effect which existed until PHP 4.2.3. Please be advised that the session extension does not consider global variables as a source of data, unless register_globals is enabled. You can disable this functionality and this warning by setting session.bug_compat_42 or session.bug_compat_warn to off, respectively. in Unknown on line 0
+[23-Nov-2012 19:16:51] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 6
+[23-Nov-2012 19:16:51] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[23-Nov-2012 19:16:51] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[23-Nov-2012 19:16:51] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[23-Nov-2012 19:16:51] PHP Warning:  Unknown: Your script possibly relies on a session side-effect which existed until PHP 4.2.3. Please be advised that the session extension does not consider global variables as a source of data, unless register_globals is enabled. You can disable this functionality and this warning by setting session.bug_compat_42 or session.bug_compat_warn to off, respectively. in Unknown on line 0
+[23-Nov-2012 19:32:47] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 38
+[23-Nov-2012 19:32:47] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 38
+[23-Nov-2012 19:32:47] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[23-Nov-2012 19:32:47] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 100
+[23-Nov-2012 19:32:47] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 100
+[23-Nov-2012 19:32:47] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[23-Nov-2012 19:32:47] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 179
+[23-Nov-2012 19:32:47] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 179
+[23-Nov-2012 19:32:47] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[23-Nov-2012 19:32:47] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 208
+[23-Nov-2012 19:32:47] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 208
+[23-Nov-2012 19:32:47] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[23-Nov-2012 19:35:22] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'kenhdh_g2' (1) in /home/kenhdh/public_html/group2/sql.php on line 6
+[23-Nov-2012 19:35:24] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'kenhdh_g2' (1) in /home/kenhdh/public_html/group2/sql.php on line 6
+[23-Nov-2012 19:35:25] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'kenhdh_g2' (1) in /home/kenhdh/public_html/group2/sql.php on line 6
+[23-Nov-2012 19:35:25] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'kenhdh_g2' (1) in /home/kenhdh/public_html/group2/sql.php on line 6
+[23-Nov-2012 19:35:26] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'kenhdh_g2' (1) in /home/kenhdh/public_html/group2/sql.php on line 6
+[23-Nov-2012 19:35:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 38
+[23-Nov-2012 19:35:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 38
+[23-Nov-2012 19:35:54] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[23-Nov-2012 19:35:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 100
+[23-Nov-2012 19:35:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 100
+[23-Nov-2012 19:35:54] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[23-Nov-2012 19:35:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 179
+[23-Nov-2012 19:35:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 179
+[23-Nov-2012 19:35:54] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[23-Nov-2012 19:35:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 208
+[23-Nov-2012 19:35:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 208
+[23-Nov-2012 19:35:54] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[23-Nov-2012 19:36:21] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 38
+[23-Nov-2012 19:36:21] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 38
+[23-Nov-2012 19:36:21] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[23-Nov-2012 19:36:21] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 100
+[23-Nov-2012 19:36:21] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 100
+[23-Nov-2012 19:36:21] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[23-Nov-2012 19:36:21] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 179
+[23-Nov-2012 19:36:21] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 179
+[23-Nov-2012 19:36:21] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[23-Nov-2012 19:36:21] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 208
+[23-Nov-2012 19:36:21] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 208
+[23-Nov-2012 19:36:21] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[23-Nov-2012 19:36:26] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 38
+[23-Nov-2012 19:36:26] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 38
+[23-Nov-2012 19:36:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[23-Nov-2012 19:36:26] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 100
+[23-Nov-2012 19:36:26] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 100
+[23-Nov-2012 19:36:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[23-Nov-2012 19:36:26] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 179
+[23-Nov-2012 19:36:26] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 179
+[23-Nov-2012 19:36:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[23-Nov-2012 19:36:26] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 208
+[23-Nov-2012 19:36:26] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 208
+[23-Nov-2012 19:36:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[23-Nov-2012 19:38:06] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 38
+[23-Nov-2012 19:38:06] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 38
+[23-Nov-2012 19:38:06] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 38
+[23-Nov-2012 19:38:06] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 100
+[23-Nov-2012 19:38:06] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 100
+[23-Nov-2012 19:38:06] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 100
+[23-Nov-2012 19:38:06] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 179
+[23-Nov-2012 19:38:06] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 179
+[23-Nov-2012 19:38:06] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 180
+[23-Nov-2012 19:38:06] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'kenhdh'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/product.php on line 208
+[23-Nov-2012 19:38:06] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/kenhdh/public_html/group2/product.php on line 208
+[23-Nov-2012 19:38:06] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kenhdh/public_html/group2/product.php on line 210
+[07-Dec-2012 12:34:29] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/sql.php on line 2
+[07-Dec-2012 12:34:29] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/kenhdh/public_html/group2/sql.php on line 4
+[07-Dec-2012 12:34:30] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/kenhdh/public_html/group2/sql.php on line 2
+[07-Dec-2012 12:34:30] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/kenhdh/public_html/group2/sql.php on line 4
